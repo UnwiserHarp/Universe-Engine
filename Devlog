@@ -1,7 +1,5 @@
 ## Devlog 0.0.1 - 11/16/2025
 - Initial prototyping
 - Prototype spacecraft object
-- Prototype spacecraft object
 - Basic movement/update loop
 - Initial scene camera setup
-      Began implementation of basic project logic
