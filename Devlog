@@ -3,3 +3,8 @@
 - Prototype spacecraft object
 - Basic movement/update loop
 - Initial scene camera setup
+
+## Devlog 0.0.2 - 11/27/2025
+- Sample planets created
+- Semi Working Orbitals script sample
+- Working Planetary lighting for sample planets
